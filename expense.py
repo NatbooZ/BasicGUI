@@ -18,7 +18,7 @@ def readcsv():
 
 GUI = Tk()
 GUI.geometry('900x700')
-GUI.title('โปรแกรมบันทึกค่าใช้จ่าย')
+GUI.title('โปรแกรมบันทึกค่าใช้จ่ายย')
 
 
 FONT1 = ('Angsana New',25)
